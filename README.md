@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nibaayisha
-- 👀 I’m interested in drawing
+- 👀 I’m interested in backend and web development
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ayishanibanishar@gmail.com
